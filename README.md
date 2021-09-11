@@ -1,0 +1,1 @@
+# speedy-rest-api-php-sdk
