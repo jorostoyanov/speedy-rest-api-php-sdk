@@ -1,1 +1,1 @@
-# speedy-rest-api-php-sdk
+# Speedy REST API PHP SDK
