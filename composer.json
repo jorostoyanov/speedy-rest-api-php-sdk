@@ -1,0 +1,21 @@
+{
+    "name": "joro/speedy-rest-api-php-sdk",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Speedy\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jorostoyanov",
+            "email": "stoyanov.gs@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "require-dev": {
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
